@@ -1,0 +1,15 @@
+//12S24049 - Rimanda Santa Risa Panjaitan
+
+apa maksud dari setiap soal? dan bagaimana aku mengerjakann soal - soalnnyaa?
+bikinin kerangka kode java scanner dan switch soal 1 - 5
+cara menguji gimana yaa? dan cara membuat file nya pakai dot apa??
+kalau inii gimana cara menjawabnyaa?? dan bisa ga jelasinn dengan detail tapi mudah dipahamiii
+cara menguji nya pakaii apaa??
+aku udah buatt folderr namanya answer dan aku udh bikinn persoal itu soal1.java sampai soal5.java nah sekarang akuu mauu nge running yang soal1.java gimana caranya??
+jawabannya masihh errorr
+soal1.java:5: error: class Soal1 is public, should be declared in a file named Soal1.java
+public class Soal1 {
+       ^
+1 error
+
+kalau ini maksudnya apaa?? dan gimana cara memperbaikinyaa
